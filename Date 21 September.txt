@@ -1,0 +1,26 @@
+mngr666652
+
+UsYzyjE
+
+Test case 1 :- Validate login functionality:-
+
+1) Navigate to url :- https://demo.guru99.com
+2) Enter the email Id
+3) Click on submit.
+4) New page will open with user name and password.
+5) Open a home page of the site :- https://demo.guru99.com/V4/index.php
+6) Enter Username-mngr666652
+7)  Password:- UsYzyjE
+8) Click on submit (Able to enter in page)
+
+Test Case 2:- Validate creation of new user
+
+1) Navigate to url:-https://demo.guru99.com/V4/index.php
+2) Enter Username
+3) Enter password
+4) Click on submit option
+5) Click click on "new customer" option reflects at right side of the page.
+6) Enter the details :- Customer name, Gender, Address, City, State, Pin code the place customer belongs, cutomer mobile number, Email Id
+7) Enter the password
+
+
